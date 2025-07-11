@@ -14,7 +14,7 @@ class Config:
     body_3d_size = 2 # meter
 
     ## dataset
-    dataset = 'Custom' # 'NeuMan', 'Custom', 'XHumans'
+    dataset = 'NeuMan' # 'NeuMan', 'Custom', 'XHumans'
 
     ## others
     num_thread = 16
